@@ -1,7 +1,16 @@
 # iSensa_v3
 Codecht Home Automation Client
+A python firmware for Raspberry Pi,
+to communicate with Codecht Home Automation Cloud Platform.
 
-This software module is for Rasberry Pis, in-order to communicate with Codecht Home Automation Cloud Platform.
+Required Python Version is 2.7
+
+Pre-requisites
+
+1. Flask
+2. ZeroMQ
+3. apscheduler
+
 
 Certain features are,
 
