@@ -1,7 +1,7 @@
 # iSensa_v3
 Codecht Home Automation Client
 
-This is software module is for Rasberry Pis in order to communicate with Codecht Home Automation Cloud Platform.
+This software module is for Rasberry Pis in order to communicate with Codecht Home Automation Cloud Platform.
 
 Certain features are,
 
